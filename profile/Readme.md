@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="./great_people.svg" width="50%" />
+<img  src="https://raw.githubusercontent.com/sprinteins/.github/main/profile/great_people.svg" width="50%" />
 </p>
 
 _ [Cases](https://sprinteins.com/en/cases): Score with experience  
