@@ -1,4 +1,6 @@
-# SprintEins
+<p align="center">
+<img  src="./great_people.svg" width="50%" />
+</p>
 
 _ [Cases](https://sprinteins.com/en/cases): Score with experience  
 _ [Services](https://sprinteins.com/en/services): Digital product development  
