@@ -1,7 +1,7 @@
 # SprintEins
 
-_ [Cases ↗️](https://sprinteins.com/en/cases)  
-_ [Services ↗️](https://sprinteins.com/en/services)  
-_ [Culture ↗️](https://sprinteins.com/en/culture)  
-_ [Academy ↗️](https://sprinteins.com/en/academy)  
-_ [Career ↗️](https://sprinteins.com/en/career)  
+_ [Cases](https://sprinteins.com/en/cases): Score with experience  
+_ [Services](https://sprinteins.com/en/services): Digital product development  
+_ [Culture](https://sprinteins.com/en/culture): We accept each other as we are and seek exchange  
+_ [Academy](https://sprinteins.com/en/academy): We achieve personal and common goals by constantly educating ourselves  
+_ [Career](https://sprinteins.com/en/career): At SprintEins, you are more than a title. Our teams are made up of personalities  
