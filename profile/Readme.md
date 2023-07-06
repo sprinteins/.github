@@ -1,6 +1,8 @@
-<p align="center">
-<img  src="https://raw.githubusercontent.com/sprinteins/.github/main/profile/great_people.svg" width="50%" />
-</p>
+<div align="right">
+  <img  src="https://raw.githubusercontent.com/sprinteins/.github/main/profile/great_people.svg" width="30%" />
+</div>
+
+
 
 _ [Cases](https://sprinteins.com/en/cases): Score with experience  
 _ [Services](https://sprinteins.com/en/services): Digital product development  
